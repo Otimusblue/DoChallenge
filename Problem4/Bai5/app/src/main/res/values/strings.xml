@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bai5</string>
+    <string-array name="provinces">
+        <item>HaNoi</item>
+        <item>HaNam</item>
+        <item>HaTinh</item>
+        <item>NgheAn</item>
+        <item>QuangBinh</item>
+        <item>QuangTri</item>
+        <item>Hue</item>
+        <item>DaNang</item>
+        <item>Quang Nam</item>
+        <item>Quang Ngai</item>
+        <item>Lam Dong</item>
+
+    </string-array>
+</resources>
