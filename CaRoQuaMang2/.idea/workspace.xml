@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b237604-2ec0-4517-9d8f-1bd20ce79262" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Algorithm/GuessingGame/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaroQuaMang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaroQuaMang/src/CaroQuaMang/Caro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaroQuaMang/src/CaroQuaMang/CaroServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTDD/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTDD/src/Reverse/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoTDD/tests/Reverse/ReverseStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoTDD2/src/TDD/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoTDD2/tests/TDD/ReverseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/ExchangeRateServer/ExchangeRateServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/com/company/ExchangeRateClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FacebookLogin/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FacebookLogin/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/.idea/dictionaries/macintoshhd.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/app/src/androidTest/java/com/example/macintoshhd/bai1_a/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/app/src/main/java/com/example/macintoshhd/bai1_a/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/app/src/test/java/com/example/macintoshhd/bai1_a/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_a/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/.idea/dictionaries/macintoshhd.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/app/src/androidTest/java/com/example/macintoshhd/bai1_c/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/app/src/main/java/com/example/macintoshhd/bai1_c/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/app/src/test/java/com/example/macintoshhd/bai1_c/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_c/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/.idea/dictionaries/macintoshhd.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/app/src/androidTest/java/com/example/macintoshhd/bai1_d/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/app/src/main/java/com/example/macintoshhd/bai1_d/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/app/src/test/java/com/example/macintoshhd/bai1_d/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_d/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/.idea/dictionaries/macintoshhd.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/app/src/androidTest/java/com/example/macintoshhd/bai1_e/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/app/src/main/java/com/example/macintoshhd/bai1_e/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/app/src/test/java/com/example/macintoshhd/bai1_e/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/Bai1_e/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/.idea/dictionaries/macintoshhd.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/app/src/androidTest/java/com/example/macintoshhd/bai1_b/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/app/src/main/java/com/example/macintoshhd/bai1_b/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/app/src/test/java/com/example/macintoshhd/bai1_b/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_b/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/.idea/dictionaries/macintoshhd.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/app/src/androidTest/java/com/example/macintoshhd/bai1_f/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/app/src/main/java/com/example/macintoshhd/bai1_f/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/app/src/test/java/com/example/macintoshhd/bai1_f/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai1/bai1_f/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/.idea/dictionaries/macintoshhd.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/src/androidTest/java/com/example/macintoshhd/bai5/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/src/main/java/com/example/macintoshhd/bai5/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/src/main/java/com/example/macintoshhd/bai5/ProvinceActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/src/main/res/layout/activity_province.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/app/src/test/java/com/example/macintoshhd/bai5/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai5/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/.idea/dictionaries/macintoshhd.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/src/androidTest/java/com/example/macintoshhd/bai5/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/src/main/java/com/example/macintoshhd/bai5/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/src/main/java/com/example/macintoshhd/bai5/ProvinceActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/src/main/res/layout/activity_province.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/app/src/test/java/com/example/macintoshhd/bai5/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem4/Bai6/settings.gradle" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1614303103">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Caro.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/CaroServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-191">
+              <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Caro.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CaroServer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="822" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CaRoQuaMang2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CaRoQuaMang2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CaRoQuaMang2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CaRoQuaMang2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CaRoQuaMang2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CaRoQuaMang2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CaRoQuaMang2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CaRoQuaMang2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="CaroServer.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538695397363" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CaroServer">
+    <configuration name="CaroServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.CaroServer" />
+      <module name="CaRoQuaMang2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="CaRoQuaMang2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.CaroServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CaroServer" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b237604-2ec0-4517-9d8f-1bd20ce79262" name="Default Changelist" comment="" />
+      <created>1538093061849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538093061849</updated>
+      <workItem from="1538093063506" duration="243000" />
+      <workItem from="1538694575423" duration="625000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="868000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="822" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Caro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CaroServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-191">
+          <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

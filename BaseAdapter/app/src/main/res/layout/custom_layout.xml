@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_margin="16dp"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+    <ImageView
+        android:id="@+id/avatar"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        />
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:orientation="vertical"
+          >
+          <TextView
+              android:id="@+id/name"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="Ten dien vien"
+              android:textSize="20dp"
+              />
+          <TextView
+              android:id="@+id/role"
+              android:layout_width="89dp"
+              android:layout_height="28dp"
+              android:text="Vai tro"
+              android:textSize="10dp"
+              android:textStyle="italic"
+              />
+      </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
